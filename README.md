@@ -90,9 +90,8 @@ Reference: [Wang et al., U-net model for brain extraction: Trained on humans for
 
 
 
-# For BLAB users
+# For BLAB users 
 
-<img width="1032" height="564" alt="image" src="https://github.com/user-attachments/assets/c08f3a37-fee4-4ebf-8924-902cfce17fcd" /># Extract brain (Skull stripping)
 
 This is the implementation of the U-Net brain extraction + ANTs template-driven brain extraction of Wang et al., U-net model for brain extraction: Trained on humans for transfer to non-human primates, 2021, NeuroImage (https://www.sciencedirect.com/science/article/pii/S1053811921002780) on our lab data. 
 
